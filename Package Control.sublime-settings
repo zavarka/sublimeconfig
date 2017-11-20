@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Emmet",
 		"Package Control",
 		"SideBarEnhancements"
 	]
