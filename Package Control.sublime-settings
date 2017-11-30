@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"gruvbox",
+		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements"
 	]
