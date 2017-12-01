@@ -16,5 +16,21 @@
 		"Vintage"
 	],
 	"show_line_endings": true,
-	"theme": "gruvbox (Dark) (Soft).sublime-theme"
+	"theme": "gruvbox (Dark) (Soft).sublime-theme",
+	"draw_minimap_border": true,
+	"translate_tabs_to_spaces": true,
+	"gruvbox_tabs_s": true,
+	"scroll_past_end": true,
+	"overlay_scroll_bars": "disabled",
+	//"gruvbox_colored_tooltips": true,
+	//"gruvbox_disable_greyscale": true,
+	"gruvbox_enable_panel_close_button": true,
+	//"gruvbox_less_contrast": true,
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.sublime-workspace"],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "sidebar_default": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "show_encoding": true,
 }
