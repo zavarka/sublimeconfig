@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Emmet",
 		"gruvbox",
 		"Material Theme",
 		"Package Control",
+		"PackageResourceViewer",
 		"SideBarEnhancements"
 	]
 }
