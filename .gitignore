@@ -3,3 +3,4 @@
 # ... except preferences
 !.gitignore
 !*.sublime-settings
+!*.sublime-keymap
