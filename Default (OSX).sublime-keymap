@@ -1,3 +1,4 @@
 [
-    {"keys": ["super+alt+r"], "command": "reindent"}
+    { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+down"], "command": "select_lines", "args": {"forward": true} },
 ]
